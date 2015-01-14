@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xi'an XLP: Reflection
+title: "Xi'an XLP: Reflection"
 ---
 
 ##This my first learning log for 2015.
