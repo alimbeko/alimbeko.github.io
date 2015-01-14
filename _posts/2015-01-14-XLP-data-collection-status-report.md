@@ -15,9 +15,9 @@ According to Ben's feedback, I am using the relationship between four stages of 
 Last survey already established a relationship between overall team performance and their technical abilities. I am thinking of adding questions where the teams can indicate which tools they are using and at what scale (e.g. 1 Never - 7 Extensively), then we can compare it to their actual performance. The question here is to determine which technologies are the participants learning and using, and which they may not learning, or learning, but not using.
 
 Sample questions:
-* Please list the technological tools (software, hardware) you are using in your project
-* On the scale from 1-7, please indicate how frequent do you use each tool.
-* On the scale from 1-7, please indicate how critical is each tool to your project.
+- Please list the technological tools (software, hardware) you are using in your project
+- On the scale from 1-7, please indicate how frequent do you use each tool.
+- On the scale from 1-7, please indicate how critical is each tool to your project.
 
 
 
@@ -26,10 +26,10 @@ Sample questions:
 Most frequent causes of failure in this stage include lack of basic procedures, for things such as effective meetings, conflict resolutions etc. The resources including these procedures will be provided to the participants. Here I propose to test the first statement and see if the early failures result in better performance in the long-run.
 
 Sample questions:
-* On the scale from 1-7, how familiar are you with effective meeting procedures, such as Robert's Rule of Order
-* On the scale from 1-7, how often have you used these procedures in your team meetings
-* On the scale from 1-7, how familiar are you with the XLP court system
-* On the scale from 1-7, how often have you used the court's services to resolve conflicts
+- On the scale from 1-7, how familiar are you with effective meeting procedures, such as Robert's Rule of Order
+- On the scale from 1-7, how often have you used these procedures in your team meetings
+- On the scale from 1-7, how familiar are you with the XLP court system
+- On the scale from 1-7, how often have you used the court's services to resolve conflicts
 
 ####3. Convergence/Market
 This relationship is not as explicit as others. Convergence implies collaboration and interactions between teams to work to a common goal. Market provides the monetary instrument to mediate these interactions. Given that we will have team merging stages, I think market force should move the merging teams to find a way to adjust their inter-team funds. I am not clear yet how can this be incorporated in the survey. However, I think we can get the necessary data also from the market transactions.
