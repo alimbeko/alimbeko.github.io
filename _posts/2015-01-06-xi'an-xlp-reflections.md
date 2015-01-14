@@ -2,7 +2,8 @@
 layout: post
 title: Xi'an XLP: Reflection
 ---
-This my first learning log for 2015.
+
+##This my first learning log for 2015.
 
 In the past couple weeks, many things happened. First and foremost, we flew out to Xi'an to organise the XLP at Eurasia University. I have collected initial demographics information before the event, and also conducted data collection during the event through participant questionnaires conducted at 3 stages. I will discuss them more in detail later. Second thing was the planning of the next XLP event in late January at Tsinghua.
 
