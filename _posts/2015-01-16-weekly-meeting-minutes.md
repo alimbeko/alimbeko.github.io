@@ -18,6 +18,7 @@ Agenda
 ------
 
  **STUDENT REPORT** 
+
  *10 Minutes: Report on the current progress regarding thesis, projects, etc.*
 
  - Data collection strategy updates
@@ -29,17 +30,22 @@ Agenda
  - Booklet
 
 **FEEDBACK **
+
  *10 Minutes: Professor's feedback regarding student's current progress.*
  
  
 
 **OPEN BUSINESS**
+
 *10 Minutes: Open discussion of current and future business*
 
 
 
 **COMMITMENTS**
+
 *5 Minutes: Plans and schedules for future work and follow-ups*
+
+
 
 ***Kuba***:
 
@@ -54,6 +60,7 @@ Agenda
 
 
 **DIGITAL SIGNATURES**
+
 |**Ben** ||**Kuba**|
 | ------------- ||----------------|
 |Not Signed|| Not Signed
