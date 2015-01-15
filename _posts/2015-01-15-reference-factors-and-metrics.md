@@ -7,7 +7,7 @@ last_updated: 01/15/2015
 ---
 
 
-## Six-Factor Pedagogical Model for Experiment Evaluation and Grading##
+#### Six-Factor Pedagogical Model for Experiment Evaluation and Grading####
 
 | Factors		| Experiment Elements           | Evaluation Methods|
 | ------------- |:-------------:| -----:|
