@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "XLP Data Collection Status Report"
+tags: [data, XLP, report, cheddar]
+description: Report on the survey design for XLP
+last_updated: 01/14/2015
 ---
 
 According to Ben's feedback, I am using the relationship between four stages of the activity and the four forces of learning. These are as follows:

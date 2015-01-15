@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Xi'an XLP: Reflection"
+tags: [Xi'an, XLP, report, sandwich]
+description: Reflection in XLP conducted in Xi'an in Dec. 2014
+last_updated: 01/06/2015
 ---
 
 ##This my first learning log for 2015.

@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Concerning errors in my analysis and new refs"
+tags: [data, XLP, report, epic, fail, errors, references, kotokbash]
+description: Report on the survey design for XLP
+last_updated: 01/15/2015
 ---
+
 
 ## part i: errors in my analysis##
 
