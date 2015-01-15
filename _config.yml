@@ -5,7 +5,6 @@ author :
   email : alimbeko@zoho.com
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
 markdown: redcarpet2
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 
 
