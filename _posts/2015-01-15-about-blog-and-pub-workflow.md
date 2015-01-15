@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This blog's DIY & FAQ"
+title: "Blogs made easy: Make your own static blog"
 tags: [blog, jekyll, kymyz]
 description: Short guide on how to start a similar blog
 last_updated: 01/15/2015
