@@ -1,5 +1,8 @@
 url: http://rogchap.com
-#markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 pygments: true
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
+
+kramdown:
+  input: GFM
