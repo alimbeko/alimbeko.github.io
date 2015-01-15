@@ -12,7 +12,7 @@ According to Ben's feedback, I am using the relationship between four stages of 
 
 
 #### 1. Early success/Technology
-Last survey already established a relationship between overall team performance and their technical abilities. I am thinking of adding questions where the teams can indicate which tools they are using and at what scale (e.g. 1 Never - 7 Extensively), then we can compare it to their actual performance. The question here is to determine which technologies are the participants learning and using, and which they may not learning, or learning, but not using.
+~~Last survey already established a relationship between overall team performance and their technical abilities.~~ I am thinking of adding questions where the teams can indicate which tools they are using and at what scale (e.g. 1 Never - 7 Extensively), then we can compare it to their actual performance. The question here is to determine which technologies are the participants learning and using, and which they may not learning, or learning, but not using.
 
 Sample questions:
 - Please list the technological tools (software, hardware) you are using in your project
