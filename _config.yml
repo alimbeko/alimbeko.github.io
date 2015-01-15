@@ -1,8 +1,11 @@
-url: http://rogchap.com
-markdown: kramdown
-permalink: pretty
-pygments: true
+title : Kuba Alimbekov
+tagline: Grad Blog
+author :
+  name : Kuba Alimbekov
+  email : alimbeko@zoho.com
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
+markdown: redcarpet2
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
-kramdown:
-  input: GFM
+
