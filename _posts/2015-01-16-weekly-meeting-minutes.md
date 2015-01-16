@@ -6,9 +6,9 @@ description: Weekly meeting minutes from meeting with my supervisor.
 last_updated: 01/16/2015
 ---
 
-|**Date** ||**Meeting time**||**Meeting place**
-| -------------| |:----------------:||:-------:
-|Jan. 16, 2015|| 9 AM||Toyhouse
+|**Date** |**Meeting time**|**Meeting place**
+| ------------- |:----------------:|:-------:
+|Jan. 16, 2015| 9 AM|Toyhouse
 
 
 ----------
@@ -61,6 +61,6 @@ Agenda
 
 **DIGITAL SIGNATURES**
 
-|**Ben** ||**Kuba**|
-| ------------- ||----------------|
-|Not Signed|| Not Signed
+|**Ben** |**Kuba**|
+| ------------- |----------------|
+|Not Signed| Not Signed
