@@ -53,7 +53,8 @@ Agenda
 
 ***Ben***:
 
- - Commitment; deadline
+ This is the first time we use Github as a platform to record our meeting minutes. This has been effective so far.
+ WE want to have one common website publishing workflow, so that in the future, all Toyhouse related website will become one.
 
 
 ----------
@@ -63,4 +64,4 @@ Agenda
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Not Signed| Not Signed
+|Signed| Not Signed
