@@ -26,6 +26,5 @@ pre { background: #fdf6e3; border: 1px solid #ddd }
 
 table, th, td {
    border: 1px solid gray;
-   border-collapse: separate;
    border-spacing: 2px;
 }
