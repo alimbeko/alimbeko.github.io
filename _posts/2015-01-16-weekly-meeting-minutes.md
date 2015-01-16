@@ -33,7 +33,21 @@ Agenda
 
  *10 Minutes: Professor's feedback regarding student's current progress.*
  
- 
+  - Data collection strategy updates
+	 - Moving targets theory
+	 	- ***adopting/adjusting targets on the go***
+	 - Research questions
+	 - Factors/Metrics
+ - Demo website is online
+ 	- ***Mid stage result - chain reaction***
+ 	- ***reward within teams***
+ 	- ***master branch ***
+ 	- ***in the future education of all we will be teaching anyobady digiral pub techniques. incl. 3d models, etc. procedure is stage gated reviison control. Fast cycle/slow cycle revision control. Smaller groups local rev.cont. then merging to one big branch and pub. workflow design!! (THEME)***
+ 		- ***DPC - JP has a clear workflow design***
+
+ - CDT Rehearsals
+ 	- ***flip roles ME vs. CD - 1 day***
+ - Booklet
 
 **OPEN BUSINESS**
 
@@ -49,7 +63,11 @@ Agenda
 
 ***Kuba***:
 
- - Commitment; deadline
+ - TODAY Develop a procedure for the website to drive interactions;
+ - TODAY Update procedures for group meetings re: digital signature time windows;
+ - TODAY Explain to team the 1-day XLP Rehearsal with old CDs playing MEs and new CDs playing CDs at the event;
+ - TODAY Finish the booklet
+ - THIS WEEKEND Stage 1 of developing the evaluation framework for XLP;
 
 ***Ben***:
 
@@ -64,4 +82,4 @@ Agenda
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Signed| Not Signed
+|Signed| Signed
