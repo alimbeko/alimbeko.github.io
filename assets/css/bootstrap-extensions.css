@@ -25,5 +25,7 @@ legend { font-size:1.0em;margin-bottom:10px; text-align:center; width:100%; bord
 pre { background: #fdf6e3; border: 1px solid #ddd }
 
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid gray;
+   border-collapse: separate;
+   border-spacing: 2px;
 }
