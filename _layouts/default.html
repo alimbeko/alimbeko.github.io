@@ -1,68 +1,92 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-		{% if page.description %}
-		<meta name="description" content="{{ page.description }}" />
-		{% endif %}
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-		<link rel="stylesheet" media="screen" href="/assets/bootstrap/css/bootstrap.min.css" type="text/css" />
-		<link rel="stylesheet" media="screen" href="/assets/css/bootstrap-extensions.css" type="text/css" />
-		<link rel="stylesheet" href="http://softwaremaniacs.org/media/soft/highlight/styles/solarized_light.css">
+   <head>
+      <!-- META -->
+      <meta charset="UTF-8">
+      <meta name="author" content="Nat Welch" />
+      <meta name="description" content="PseudoWeb.net is the blog of Nathaniel 'Nat' Welch" />
 
-		{% if site.feedburner %}
-		<link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-		{% endif %}
-	</head>
+      <title>{{ page.title }}</title>
 
-	<body>
-		<div class=container>
-			<div class="row">
-				<div class="span3" id="menu_col">
-					<div id='header'>
-						<h1>Kuba's Blog</h1>
-					</div>
+      <!-- RSS -->
+      <link href="/atom.xml" rel="alternate" title="Nat Welch's RSS Feed" type="application/atom+xml" />
 
-					<div id='sidebar'>
-						<ul class="unstyled">
-							<li><a href="/">Home <i class="icon-hand-left"></i></a></li>
-							{% for page in site.html_pages %}
-							{% if page.title %} <li><a href="{{ page.url }}">{{ page.title }} <i class="icon-hand-left"></i></a></li> {% endif %}
-							{% endfor %}
-						</ul>
-						<br>
-						<ul class="unstyled">
-							<li><a target="_blank" href="http://github.com/leonardok">github.com/alimbeko</a></li>
-						</ul>
-					</div>
+      <!-- syntax highlighting CSS -->
+      <link rel="stylesheet" href="/css/pygments/tango.css" type="text/css" />
 
-				</div>
+      <!-- Homepage CSS -->
+      <link rel="stylesheet" href="/css/style.css?v=20130721" type="text/css" media="screen, projection" />
+   </head>
+   <body>
+      <div class="site">
+         <div class="header">
+            <span id="title"><a href="/">PseudoWeb.Net</a> is <a href="http://natwelch.com/">Nat Welch</a>'s log of stuff.</span>
+            {% if page.alt %}<div id="description">{{ page.alt }}</div>{% endif %}
+         </div>
 
-				<!-- CONTENT -->
-				<div class="span9" id="content_col">
+         <div id="content">
+            {{ content }}
+         </div>
 
-					<div id='content'>
-						{{ content }}
-					</div>
+         <div class="footer">
+            <div class="contact">
+               <p>
+               This blog is built with <a href="http://github.com/mojombo/jekyll">Jekyll {% jekyll_version %}</a>.
 
-				</div>
-			</div>
-		</div>
+               This site's contents are copyright <a href="http://natwelch.com/">Nathaniel "Nat" Welch</a> 2006-2013.
 
+               You can find the source of this site on <a href="http://github.com/icco/pseudoweb">GitHub</a>.
 
-		{% if site.github %}
-		<a href="http://github.com/{{ site.github.username }}">
-			<img style="position: absolute; top: 0; right: 0; border: 0;" 
-					src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" 
-					alt="Fork me on GitHub" />
-		</a>
-		{% endif %}
+               The views expressed here are belong completely to Nat and do not represent that of anyone who has ever employed him.
 
+               You can contact Nat at <a href="mailto:nat@natwelch.com">nat@natwelch.com</a>.
+               </p>
+            </div>
+            <div id="site-meta">
+               <!-- Rendered at {% render_time %} -->
+               <a href="/atom.xml">RSS</a> &brvbar;
+               <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fpseudoweb.net%2F">HTML5</a> &brvbar;
+               <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> &brvbar;
+               <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">CC</a>
+            </div>
+         </div>
+      </div>
 
-		<script src="http://softwaremaniacs.org/media/soft/highlight/highlight.pack.js"></script>
-		<script>hljs.initHighlightingOnLoad();</script>
+      <!-- Google's MooTools Mirror -->
+      <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/mootools/1.3.0/mootools-yui-compressed.js"></script>
 
+      <!-- Audio.js -->
+      <script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
 
+      <!-- other js -->
+      <script type="text/javascript" src="/js/onload.js"></script>
 
-	</body>
+      <!-- Gauges -->
+      <script type="text/javascript">
+        var _gauges = _gauges || [];
+        (function() {
+          var t   = document.createElement('script');
+          t.type  = 'text/javascript';
+          t.async = true;
+          t.id    = 'gauges-tracker';
+          t.setAttribute('data-site-id', '52282ea4f5a1f539ac000069');
+          t.src = '//secure.gaug.es/track.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(t, s);
+        })();
+      </script>
+
+      <!-- Google Analytics -->
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-333449-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
+   </body>
 </html>

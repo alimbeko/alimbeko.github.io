@@ -1,4 +1,11 @@
 source 'https://rubygems.org'
 
-gem "jekyll", ">= 0.12.1"
-gem "rdiscount"
+gem 'classifier'
+gem 'git'
+gem 'gsl', :git => "https://github.com/tonyarnold/rb-gsl"
+gem 'jekyll'
+gem 'logger'
+gem 'narray', :git => "https://github.com/tonyarnold/narray"
+gem 'psych'
+gem 'rack-jekyll'
+gem 'redcarpet'

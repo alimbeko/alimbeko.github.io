@@ -1,15 +1,32 @@
 ---
 layout: default
-description: 
+title: PseudoWeb.Net 
 ---
+<div id="home">
+   <div class="section" id="banner">
+      <a href="http://www.flickr.com/photos/icco/9338961913/" title="Rainy Paris by Nat W, on Flickr"><img src="http://farm3.staticflickr.com/2841/9338961913_dac5051749_z.jpg" alt="Rainy Paris" width="600"></a>
+   </div>
+   <div class="section" id="about">
+      <h2>About</h2>
+      <p>
+      <a href="http://natwelch.com" title="Find out more about Nat">Nat Welch</a> is a software developer in San Francisco, CA. Nat enjoys learning, web development and Linux. He also likes to spend his free time backpacking, listening to music, and urban exploring. He posts his thoughts here and on <a href="http://tumble.io">Tumble.io</a>.
+      </p>
+   </div>
+   <div class="section" id="recent-posts">
+      <h2>Most Recent Blog Posts</h2>
+      <div id="post-list">
+         <ul class="posts">
+            {% for post in site.posts limit:7 offset:0 %}
+            <li class="{% cycle 'one', 'two' %}">
+               <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+               &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+            <li class="none">
+               <a href="/archives/">View more posts in the archives...</a>
+            </li>
+         </ul>
+      </div>
+   </div>
+</div>
 
-<h1>Posts</h1>
-<span>
-	<p>My Blog on XLP and my learning experience</p>
-</span>
-
-<ul class="unstyled">
-{% for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }} <i class="icon-hand-left"></i></a></li>
-{% endfor %}
-</ul>

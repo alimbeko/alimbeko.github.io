@@ -1,28 +1,13 @@
-# standard jekyll configuration
+# Which markdown lib
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
-permalink: date
+# which type of links.
+permalink: pretty
+
+# Deal with source code?
 pygments: true
-exclude: ['Rakefile', 'README.md', 'config.rb']
-markdown: rdiscount
-include: ['_pages/', 'images']
 
-# configuration required for some pages
-
-title: Kuba Alimbekov
-author: Kuba
-email: alimbeko@zoho.com
-
-# configuration for ehancements, uncomment to enable
-
-# feedburner:
-#   id: feedburnerid
-
-#google_analytics:
-#  account: UA-27240426-1
-
-
-github:
-  username: alimbeko
-
-# disqus:
-#   id: disqusid
+# better relevent post section? Overwrite with --lsi
+lsi: false # so sad this doesn't work on github
