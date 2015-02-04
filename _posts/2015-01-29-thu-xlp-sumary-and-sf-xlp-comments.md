@@ -22,10 +22,11 @@ The data collection has been organized throughout the 4 days of the event, which
 - Pre-event survey: 30 out of 36 responses
 - Survey after teams 1st merge: 32 out of 35 responses (1 participant quit)
 - Survey after teams 2nd merge: 34 out of 35 responses
-- Post-event survey: 27 out of 35 responses
+- Post-event survey: 29 out of 35 responses
 - CD survey: 10 out of 25, still open.
 
 Further we have digital records from different departments. Here is a short overview of the event in numbers:
+
 - 108 blog posts on Toyhouse.cc including participants summaries and reflections, 
 - 496 commits on the Git repository made by 51 contributors, 
 - 387 tasks on Teambition (with 341 tasks marked as complete), 
@@ -47,7 +48,7 @@ Once I get all the data in order in next couple days I will begin writing the dr
 
 **Other comments regarding the event:**
 
-We have set up a website at toyhouse-xlp.gitcafe.io before the event to allow participants to publish their work on it using Git Pages tool. Unfortunately, even though me and Zhang Hang personally informed and trained several teams about this platform, in the end they didn't publish their teams work. Although, the final version of the constitution was published on this website, but again they didn't care about mentioning about it in their final presentations. The website has Google Analytics set up for tracking activity and initially that's how we planned to measure their work by seeing how many visits it gets. Anyways, I think this platform can still be used for future events, as long as it is clearly specified in the requirements.
+We have set up a website at [toyhouse-xlp.gitcafe.io](toyhouse-xlp.gitcafe.io) before the event to allow participants to publish their work on it using Git Pages tool. Unfortunately, even though me and Zhang Hang personally informed and trained several teams about this platform, in the end they didn't publish their teams work. Although, the final version of the constitution was published on this website, but again they didn't care about mentioning about it in their final presentations. The website has Google Analytics set up for tracking activity and initially that's how we planned to measure their work by seeing how many visits it gets. Anyways, I think this platform can still be used for future events, as long as it is clearly specified in the requirements.
 
 The final part (Demonstration) seemed to lack quality, where many presentations were just bad and lacked aesthetics. I cannot say much about the quality of their content in the presentation, since I didn't understand most of it, but again it didn't move me much and the microphone feedback was annoying. 
 
