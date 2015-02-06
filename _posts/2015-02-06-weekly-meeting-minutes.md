@@ -35,6 +35,8 @@ Meeting Minutes
 	- Discussed with Woody the requirements for the website and what needs to be done for San Francisco event. Agreed to set up a Teambition project and the group chat for communicating with Ben and WisdomGarden.
 
 
+
+
 **FEEDBACK **
  
  *10 Minutes: Professor's feedback regarding student's current progress.*
