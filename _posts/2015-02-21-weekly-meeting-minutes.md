@@ -58,7 +58,10 @@ Happy Chinese New Year!
 
 ***Ben***:
 
-
+- This is an effective, yet succinct summary. However, next time, when you plan to have a long vacation, please send me an email ahead of time. This is the winter vacation, so that your absence is understood. In anycase, close communication never hurts.
+- We should start writing the next paper. On top of the IEEE Transaction on Education, we should also identify other publications for potential publications.
+- With Social Physics, we can leverage a lot of terminologies Pentland used for analysis. A key term is "Idea Flow". We can study its math and come up with a way to use Git data to extract Idea Flow.
+- Prof. Tsai has been very instrumental in writing these papers. The Game Theory model can be integrated with Idea Flow. This should be the main focus of discussion. Idea Flow metrics can provide the dynamics of the moving targets or what Ideas caused targets to move.
 
 
 ----------
@@ -68,4 +71,4 @@ Happy Chinese New Year!
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Not Signed| Signed
+|Signed| Signed
