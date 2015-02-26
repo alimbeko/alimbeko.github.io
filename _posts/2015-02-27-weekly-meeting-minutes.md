@@ -48,7 +48,6 @@ This past week I have been mainly focusing on researching possible applications 
  *10 Minutes: Professor's feedback regarding student's current progress.*
  
 
-
 **OPEN BUSINESS**
 
 *10 Minutes: Open discussion of current and future business*
