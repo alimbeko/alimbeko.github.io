@@ -71,4 +71,4 @@ Happy Chinese New Year!
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Signed| Signed
+|Signed by Ben | Signed
