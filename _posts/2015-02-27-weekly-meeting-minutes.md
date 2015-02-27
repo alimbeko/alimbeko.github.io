@@ -79,6 +79,7 @@ Based on previous XLP experiences, challenge designer roles need to be reconside
 
 
 ***Ben***:
+- You need to find a place to store all the downloaded papers that you are reviewing, so that others can easily find those papers in the future.
 - I made some modifications in your minutes, you can see them using the DIFF feature.
 - You need to help Echo and Leonadis to use the same way to document meetings on Git.
 - We need to consolidate all data collection using Git. For large data files, such as Video files, we need to find a way to manage them either using Git or some other file sharing platforms.
