@@ -47,6 +47,13 @@ This past week I have been mainly focusing on researching possible applications 
  
  *10 Minutes: Professor's feedback regarding student's current progress.*
  
+When using Game Theory approach, the notion of digital publishing has to be emphasized. Thus, interactions between agents have to consider the social contracts with different payout tables and see how each contract affects the following states. Then the process can be iterated and in the sense we will design a computer language. 
+
+[Mathematica](http://demonstrations.wolfram.com/search.html?query=game%20theory) is a good platform for designing the game model. It can provide dynamic graphical figures that can be used effectively for presentation. The experiments need to be conducted to test the model. The possible experiments can be done within GMS and IGS courses this semester at Tsinghua.
+
+[Solr search engine](http://lucene.apache.org/solr) can be incorporated into the XLP platform to index all files and provide search options within all the previous XLP files and data to provide relevant references for participants.
+
+Based on previous XLP experiences, challenge designer roles need to be reconsidered. Either through providing additional training or through introduction of competition and/or grading system or other incentives, their motivation should be increased in order to provide a better learning environment. They should be encouraged to use a single platform (Git) and develop relevant workflows, which will allow for more convenient and rich data collection.
 
 **OPEN BUSINESS**
 
@@ -64,10 +71,12 @@ This past week I have been mainly focusing on researching possible applications 
 *5 Minutes: Plans and schedules for future work and follow-ups*
 
 
-
 ***Kuba***:
 
-
+- Research on game theory models development in Mathematica
+- Continue MOOC courses on Game Theory
+- Explore Solr search engine istallation process
+- asd
 
 ***Ben***:
 
