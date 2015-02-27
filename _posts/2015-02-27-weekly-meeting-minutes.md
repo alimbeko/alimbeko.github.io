@@ -76,7 +76,7 @@ Based on previous XLP experiences, challenge designer roles need to be reconside
 - Research on game theory models development in Mathematica
 - Continue MOOC courses on Game Theory
 - Explore Solr search engine istallation process
-- asd
+
 
 ***Ben***:
 
