@@ -47,7 +47,7 @@ This past week I have been mainly focusing on researching possible applications 
  
  *10 Minutes: Professor's feedback regarding student's current progress.*
  
-When using Game Theory approach, the notion of digital publishing has to be emphasized. Thus, interactions between agents have to consider the social contracts with different payout tables and see how each contract affects the following states. Then the process can be iterated and in the sense we will design a computer language. 
+When using Game Theory approach, the notion of digital publishing has to be emphasized. Thus, interactions between agents have to consider the social contracts with different payout tables and see how each contract affects the following states. Then the process can be iterated and in the sense we are designning a model of computation. In many cases, a model of computation can be best embodied by a computable language. 
 
 [Mathematica](http://demonstrations.wolfram.com/search.html?query=game%20theory) is a good platform for designing the game model. It can provide dynamic graphical figures that can be used effectively for presentation. The experiments need to be conducted to test the model. The possible experiments can be done within GMS and IGS courses this semester at Tsinghua.
 
@@ -75,11 +75,15 @@ Based on previous XLP experiences, challenge designer roles need to be reconside
 
 - Research on game theory models development in Mathematica
 - Continue MOOC courses on Game Theory
-- Explore Solr search engine istallation process
+- Explore Solr search engine installation process
 
 
 ***Ben***:
-
+- I made some modifications in your minutes, you can see them using the DIFF feature.
+- You need to help Echo and Leonadis to use the same way to document meetings on Git.
+- We need to consolidate all data collection using Git. For large data files, such as Video files, we need to find a way to manage them either using Git or some other file sharing platforms.
+- A script designed to extract data collected from Git database, and a way to convert informatino to be searched using LUCENE/Solr of Apache would be a necessary feature for the next XLP session. We need to start planning for that.
+- We still need to write a Positioning Paper for XLP, using the Logic Model as a part of our activity and program design methodology.
 
 
 
@@ -90,4 +94,4 @@ Based on previous XLP experiences, challenge designer roles need to be reconside
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Not Signed| Signed
+|Signed| Signed
