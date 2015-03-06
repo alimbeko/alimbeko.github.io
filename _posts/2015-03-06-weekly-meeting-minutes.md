@@ -98,4 +98,4 @@ Echo also has prepared the outline for the XLP defining slides with a better sto
 
 |**Ben** |**Kuba**|
 | ------------- |----------------|
-|Not Signed| Signed
+|Signed| Signed
