@@ -52,6 +52,12 @@ XLP has 3 main features
 - **Master Thesis**
 	- Timeline: 2.25 months (March - May)
 
+Framing the problem with computable measures of the hypothesis based on the 4 points on XLP above. The framing should address the questions of why we need a simulation model and what are we going to measure. Try to come up with the specific outcomes, measure policy, use the dataset and comare it to real git data.  
+
+Try to finish the framing of the problem within next week, explicitly state the measurements (costs, feelings, or other), then we have a more meaningful target of what the model is and what does it answer.
+
+
+
 **COMMITMENTS**
 
 *5 Minutes: Plans and schedules for future work and follow-ups*
@@ -59,6 +65,8 @@ XLP has 3 main features
 
 ***Kuba***:
 
+- Logic model
+- Explicitly framed hypothesis and measurements
 - Continue the theoretical development of XLP and my thesis
 - Test out social models for simulation on SeSAm
 
