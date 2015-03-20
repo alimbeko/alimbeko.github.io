@@ -73,7 +73,11 @@ Try to finish the framing of the problem within next week, explicitly state the 
 
 ***Ben***:
 
-
+ - This meeting includes Ying Ying (Yvonne), Echo, and Zhaoyu, they have witnessed how Kuba conducts meeting and write meeting minutes.
+ - The focus for Kuba next week is to work out a Logic Model for his thesis. The logic model must explciitly list the computable measurements, and relate these computable measures based on data that we can collect with Git-based tools.
+ - We also wants to have a simple schedule for Kuba, so that he can graduate with his thesis finished by the end of May, 2015.
+ - Next week, we can based on the logic model to determine whether we can run simulation with SeSAM.
+ - Kuba can show Ben how SeSAM can fit the bill for the simulation task within next week, before March 27, 2015.
 
 
 ----------
@@ -81,6 +85,6 @@ Try to finish the framing of the problem within next week, explicitly state the 
 
 **DIGITAL SIGNATURES**
 
-|**Ben** |**Kuba**|
+|**Ben** |**Kuba**| 
 | ------------- |----------------|
-|Not Signed| Signed
+|Signed| Signed
