@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Summary for Ben"
 tags: [weekly, meeting, ben, koo]
-description: Weekly Meeting Minutes: Master Thesis Logic Model, Timeline and Simulation Model
+description: Weekly Meeting Minutes, Master Thesis Logic Model, Timeline and Simulation Model.
 last_updated: 03/27/2015
 ---
 
