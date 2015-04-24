@@ -53,7 +53,7 @@ Many of the ideas introduced in the Actor model are now also finding application
 
 ###Logistic Curve (S Curve)
 
-Logistic curves can be used in the wide range of applications. They are used in logistic regression and are also commonly used in machine learning. In XLP it can be used to determine how learning may be affected by one or more variables in the configuration setup. For XLP learning occurs in the growth in the logistic curve and rich contextual data is important to assess what factors influence this growth. Agent-based simulation in this context allows to model the ecology of XLP and run simulations with different configurations to determine such relationships between growth in logistic curves, learning and other configuration variables.
+Logistic curves can be used in the wide range of applications. They are used in logistic regression and are also commonly used in machine learning. In XLP it can be used to determine how learning may be affected by one or more variables in the configuration setup. For XLP learning occurs in the growth in the logistic curve and rich contextual data is important to assess what factors influence this growth. With availability of rich data, logistic regressions can allow for better predicitons of learning dynamics in XLP. Agent-based simulation in this context allows to model the ecology of XLP and run simulations with different configurations to determine such relationships between learning and other configuration variables.
 
 
 
