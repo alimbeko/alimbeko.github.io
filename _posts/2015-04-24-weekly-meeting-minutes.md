@@ -27,7 +27,7 @@ XLP has been described as a distributed learning-workflow system. Its distribute
 
 ###XLP and Turing Machine
 
-Turing machine is described as a hypothetical device that manipulates symbols on a strip of tape according to a table of rules. It is used in thought experiments to examine the abilities and limitations of computers. In essence, a Turing machine is imagined to be a simple computer that reads and writes symbols one at a time on an endless tape by strictly following a set of rules. It determines what action it should perform next according to its internal "state" and what symbol it currently sees. In a deterministic Turing machine, the set of rules prescribes at most one action to be performed for any given situation. A non-deterministic Turing machine (NTM), by contrast, may have a set of rules that prescribes more than one action for a given situation. From this perspective, XLP considers participants as non-deterministic Turing machines and the policies related to legal and socioeconomic infrastructures and the XLP constitution as the rules prescribing certain actions in certain situations. This relationship deals with describing each particular participant within the XLP. 
+Turing machine is described as a hypothetical device that manipulates symbols on a strip of tape according to a table of rules. It is used in thought experiments to examine the abilities and limitations of computers. In essence, a Turing machine is imagined to be a simple computer that reads and writes symbols one at a time on an endless tape by strictly following a set of rules. It determines what action it should perform next according to its internal "state" and what symbol it currently sees. In a deterministic Turing machine, the set of rules prescribes at most one action to be performed for any given situation. A non-deterministic Turing machine (NTM), by contrast, may have a set of rules that prescribes more than one action for a given situation. From this perspective, XLP considers participants information processors that may have turing complete capabilties and the policies related to legal and socioeconomic infrastructures and the XLP constitution as the rules prescribing certain actions in certain situations. This relationship deals with describing each particular participant within the XLP. 
 
 ###XLP and Actor Model
 
@@ -53,7 +53,7 @@ Many of the ideas introduced in the Actor model are now also finding application
 
 ###Logistic Curve (S Curve)
 
-Logistic curves can be used in the wide range of applications. They are used in logistic regression and are also commonly used in machine learning. In XLP it can be used to determine how learning may be affected by one or more variables.
+Logistic curves can be used in the wide range of applications. They are used in logistic regression and are also commonly used in machine learning. In XLP it can be used to determine how learning may be affected by one or more variables in the configuration setup. For XLP learning occurs in the growth in the logistic curve and rich contextual data is important to assess what factors influence this growth. Agent-based simulation in this context allows to model the ecology of XLP and run simulations with different configurations to determine such relationships between growth in logistic curves, learning and other configuration variables.
 
 
 
