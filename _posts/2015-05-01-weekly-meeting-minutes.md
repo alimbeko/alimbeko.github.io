@@ -45,7 +45,7 @@ Regarding the structure of my thesis, I provide a draft outline below:
 	 - Extreme Learning Process
 	 - Actor Model
 	 - Decentralized Autonomous Organizations
-	 - Agent-Based Social Simulations and Multi-Agent Systems
+	 - Agent-Based Modelling and Multi-Agent Systems
  - Empirical Study
 	 - Research design of empirical study
 	 - XLP Evaluation Framework 
@@ -90,7 +90,7 @@ Regarding the structure of my thesis, I provide a draft outline below:
 
 ***Kuba***:
 
-This coming week I am planning to incorporate the categories withing the structure of agent's activities and see if the comparable results can be produced. At the same time I am working on gathering the literature for my thesis. The current 
+This coming week I am planning to incorporate the categories withing the structure of agent's activities and see if the comparable results can be produced. At the same time I am working on gathering the literature for my thesis. 
 
 ***Ben***:
 
